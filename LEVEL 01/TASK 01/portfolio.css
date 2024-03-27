@@ -1,0 +1,171 @@
+body {
+
+    font-family: sans-serif;
+
+    background: repeating-linear-gradient(45deg,#6860e2,#ebae5f,#60df91,#67C78B);
+
+    background-size: 300% 300%;
+
+    animation: color 12s ease-in-out infinite;
+
+  }
+
+  
+
+  @keyframes color{
+
+    0%{
+
+      background-position:0% 50%;
+
+    }
+
+    50%{
+
+      background-position: 100% 50%;
+
+    }
+
+    100%{
+
+      background-position: 0% 50%;
+
+    }
+
+  }
+
+
+
+  .zero{
+
+    margin-left: 20px;
+
+  }
+
+  header {
+
+    text-align:left;
+
+    font-family: Algerian;
+
+  }
+
+  header span{
+
+    color: yellow;
+
+  }
+
+  header p{
+
+    color:lightblue;
+
+    ;
+
+  }
+
+  .one{
+
+    margin-top: -35px;
+
+    margin-left: 30px;
+
+  }
+
+  .two{
+
+    margin-top: -30px;
+
+    margin-left: 20px;
+
+    
+
+  }
+
+  .three ul li{
+
+    display: inline-flex;
+
+    list-style: none;
+
+    display: inline;
+
+    padding:15px;
+
+    background-color: skyblue;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+
+  }
+
+  .three ul{
+
+    margin-left: 800px;
+
+    margin-top: -60px;
+
+    
+
+  }
+
+  .four{
+
+    width: 500px;
+
+    font-size: 20px;
+
+  }
+
+  
+
+  .a{
+
+  display: inline-flex;
+
+  
+
+  }
+
+  .five{
+
+    font-size: 20px;
+
+    margin-left: 900px;
+
+  }
+
+  
+
+  .fa-facebook{
+
+    font-size: 50px;
+
+    color: #4804FF;
+
+    
+
+  }
+
+  
+
+  .fa-instagram{
+
+    font-size:50px;
+
+    color:#FF041E;
+
+    
+
+  }
+
+  
+
+  .fa-linkedin{
+
+    font-size:50px;
+
+    color:#045FFF;
+
+  }
